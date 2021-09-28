@@ -237,7 +237,7 @@ function validation($data) {
 <h1>お問い合わせフォーム</h1>
 <?php if( $page_flag === 1 ): ?>
 
-<form method="post" action="">
+<form method="post" action="index2.php">
 	<div class="element_wrap">
 		<label>氏名</label>
 		<p><?php echo $clean['your_name']; ?></p>
