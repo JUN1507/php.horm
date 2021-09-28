@@ -2,7 +2,7 @@
 
 define( "FILE_DIR", "images/test/");
 
-// 変数の初期化
+// 変数の初期化d
 $page_flag = 0;
 $clean = array();
 $error = array();
